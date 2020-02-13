@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bren-rodriguez-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/bren-rodriguez-react/static/js/main.fc4f93ce.chunk.js",
+    "main.js.map": "/bren-rodriguez-react/static/js/main.fc4f93ce.chunk.js.map",
+    "runtime-main.js": "/bren-rodriguez-react/static/js/runtime-main.ccd67d5c.js",
+    "runtime-main.js.map": "/bren-rodriguez-react/static/js/runtime-main.ccd67d5c.js.map",
+    "static/js/2.4c9786bb.chunk.js": "/bren-rodriguez-react/static/js/2.4c9786bb.chunk.js",
+    "static/js/2.4c9786bb.chunk.js.map": "/bren-rodriguez-react/static/js/2.4c9786bb.chunk.js.map",
+    "index.html": "/bren-rodriguez-react/index.html",
+    "precache-manifest.09dac1e029842fabbdc71994348a0726.js": "/bren-rodriguez-react/precache-manifest.09dac1e029842fabbdc71994348a0726.js",
+    "service-worker.js": "/bren-rodriguez-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/bren-rodriguez-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4c9786bb.chunk.js.LICENSE.txt": "/bren-rodriguez-react/static/js/2.4c9786bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bren-rodriguez-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd67d5c.js",
+    "static/js/2.4c9786bb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fc4f93ce.chunk.js"
+  ]
+}
